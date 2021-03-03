@@ -1,0 +1,24 @@
+{
+  "name": "credentialmanagementsystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/attainu/backend-project-vineet-kumar-au13.git"
+  },
+  "author": "shubham gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/attainu/backend-project-vineet-kumar-au13/issues"
+  },
+  "homepage": "https://github.com/attainu/backend-project-vineet-kumar-au13#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
