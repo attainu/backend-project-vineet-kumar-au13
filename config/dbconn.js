@@ -17,3 +17,5 @@ const initDB = async function(){
 }
 
 module.exports = initDB;
+
+// Connecting to the mongodb atlas cloud server
